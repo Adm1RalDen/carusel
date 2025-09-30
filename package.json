@@ -9,7 +9,7 @@
     "@fullcalendar/react": "^4.3.0",
     "@fullcalendar/timegrid": "^4.3.0",
     "infinite-react-carousel": "^1.1.7",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-dynamic-swiper": "^2.0.2",
